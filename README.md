@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehrdad2005
+- 👋 Hi, I’m Mehrdad
 - 👀 I’m interested in computer
 - 🌱 I’m currently educating in computer enginearing
 - 💞️ I’m looking to collaborate on front-end development
