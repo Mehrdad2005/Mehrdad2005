@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehrdad
-- 👀 I’m interested in computer
+- 👀 I’m interested in programming
 - 🌱 I’m currently educating in computer enginearing
 - 💞️ I’m looking to collaborate on front-end development
 - 😄 Pronouns: the most normal person
